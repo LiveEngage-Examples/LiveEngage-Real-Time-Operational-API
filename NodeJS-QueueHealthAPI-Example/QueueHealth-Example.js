@@ -26,7 +26,7 @@ var oauth = {
 var url = 'https://{YOUR BASE URI}/operations/api/account/{YOUR ACCOUNT NUMBER}/queuehealth?timeframe=1440&v=1';
 
 request.get({
-    url: url3,
+    url: url,
     oauth: oauth,
     json: true,
     headers: {
