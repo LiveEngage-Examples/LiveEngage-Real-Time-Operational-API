@@ -1,3 +1,5 @@
+*See LP developer site for API docs and guides: https://developers.liveperson.com/documents.html*
+
 # LiveEngage-Real-Time-Operational-API
 This repository contains Node.js and Python examples for the LiveEngage Real Time Operational API.
 
